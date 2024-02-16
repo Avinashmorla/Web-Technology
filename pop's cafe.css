@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.pops-cafe-bg-container {
+    background-color: black;
+}
+.pops-cafe-heading {
+    font-family: "Lobster";
+    color: orange;
+    font-style: italic;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.pops-cafe-logo {
+    width: 100px;
+    height: 70px;
+    text-align: center;
+}
+
+.pops-cafe-caption {
+    color: orange;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    text-align: center;
+
+}
+.menu-card-bg-container {
+    background-image: url("https://images.pexels.com/photos/15964587/pexels-photo-15964587/free-photo-of-logo-of-cafe-on-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100%;
+}
+
+.food-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+
+.text-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.ice-cream {
+    font-size: 30px;
+}
+
+.food-heading {
+    color: black;
+    font-family: "Georgia";
+    font-size: 35px;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.button {
+    color: #ffffff;
+
+    font-family: "Roboto";
+}
+
+.breakfastmenu-bg-container {
+    background-color: black;
+    height: 100%;
+}
+
+.arrow-styling {
+    color: #ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 20px;
+    padding: 5px;
+}
